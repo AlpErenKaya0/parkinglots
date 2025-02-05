@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Alp Erenler Garaj",
+        "capacity": 150,
+        "occupancy": 133,
+        "coordinates": [
+            {"lat": 36.5000, "lon": 27.0000},
+            {"lat": 36.5000, "lon": 27.0004},
+            {"lat": 36.5005, "lon": 27.0004},
+            {"lat": 36.5005, "lon": 27.0000}
+        ],
+        "pricing": {
+            "less_than_15min": 20,
+            "15-30min": 30,
+            "30min-1h": 35,
+            "1h-2h": 45,
+            "2h-4h": 60,
+            "4h-8h": 70,
+            "8h-16h": 90,
+            "16h-24h": 110,
+            "1day": 150,
+            "2days": 250,
+            "3days": 300
+        }
+    },
+    {
+        "name": "Mavi Sular Park",
+        "capacity": 380,
+        "occupancy": 366,
+        "coordinates": [
+            {"lat": 36.5450, "lon": 27.0450},
+            {"lat": 36.5450, "lon": 27.0458},
+            {"lat": 36.5451, "lon": 27.0458},
+            {"lat": 36.5451, "lon": 27.0450}
+        ],
+        "pricing": {
+            "less_than_15min": 22,
+            "15-30min": 32,
+            "30min-1h": 38,
+            "1h-2h": 48,
+            "2h-4h": 63,
+            "4h-8h": 75,
+            "8h-16h": 95,
+            "16h-24h": 115,
+            "1day": 155,
+            "2days": 260,
+            "3days": 310
+        }
+    },
+    {
+        "name": "Deniz Yıldızı Otopark",
+        "capacity": 743,
+        "occupancy": 729,
+        "coordinates": [
+            {"lat": 36.5900, "lon": 27.0900},
+            {"lat": 36.5900, "lon": 27.0910},
+            {"lat": 36.59008, "lon": 27.0910},
+            {"lat": 36.59008, "lon": 27.0900}
+        ],
+        "pricing": {
+            "less_than_15min": 18,
+            "15-30min": 28,
+            "30min-1h": 33,
+            "1h-2h": 43,
+            "2h-4h": 58,
+            "4h-8h": 68,
+            "8h-16h": 88,
+            "16h-24h": 105,
+            "1day": 145,
+            "2days": 240,
+            "3days": 290
+        }
+    },
+    {
+        "name": "Okyanus Durağı",
+        "capacity": 220,
+        "occupancy": 196,
+        "coordinates": [
+            {"lat": 36.6350, "lon": 27.1350},
+            {"lat": 36.6350, "lon": 27.13545},
+            {"lat": 36.6357, "lon": 27.13545},
+            {"lat": 36.6357, "lon": 27.1350}
+        ],
+        "pricing": {
+            "less_than_15min": 25,
+            "15-30min": 35,
+            "30min-1h": 40,
+            "1h-2h": 50,
+            "2h-4h": 65,
+            "4h-8h": 78,
+            "8h-16h": 100,
+            "16h-24h": 120,
+            "1day": 160,
+            "2days": 270,
+            "3days": 320
+        }
+    }
+]
